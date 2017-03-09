@@ -1,0 +1,12 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\dectobin\dectobin\bin\Debug\dectobin.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\dectobin\dectobin\bin\Debug\dectobin.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\dectobin\dectobin\bin\Debug\dectobin.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\dectobin\dectobin\obj\Debug\dectobin.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\dectobin\dectobin\obj\Debug\dectobin.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\dectobin\dectobin\obj\Debug\dectobin.pdb
+\\WDM\Adam\C#\dectobin\dectobin\bin\Debug\dectobin.exe.config
+\\WDM\Adam\C#\dectobin\dectobin\obj\Debug\dectobin.exe
+\\WDM\Adam\C#\dectobin\dectobin\obj\Debug\dectobin.pdb
+\\WDM\Adam\C#\dectobin\dectobin\bin\Debug\dectobin.exe
+\\WDM\Adam\C#\dectobin\dectobin\bin\Debug\dectobin.pdb
+\\WDM\Adam\C#\dectobin\dectobin\obj\Debug\dectobin.csprojResolveAssemblyReference.cache

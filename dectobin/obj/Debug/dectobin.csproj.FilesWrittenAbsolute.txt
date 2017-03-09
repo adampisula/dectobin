@@ -1,0 +1,16 @@
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/bin/Debug/dectobin.exe.config
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/bin/Debug/dectobin.exe.mdb
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/bin/Debug/dectobin.pdb
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/bin/Debug/dectobin.exe
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/obj/Debug/dectobin.exe
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/obj/Debug/dectobin.exe.mdb
+/media/adampisula/181EEE331EEE0A181/Users/Adam/Documents/Visual Studio 2015/Projects/dectobin/dectobin/obj/Debug/dectobin.pdb
+/home/adampisula/Projects/2016/dectobin/dectobin/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/adampisula/Projects/2016/dectobin/dectobin/bin/Debug/dectobin.exe.config
+/home/adampisula/Projects/2016/dectobin/dectobin/bin/Debug/dectobin.exe.mdb
+/home/adampisula/Projects/2016/dectobin/dectobin/bin/Debug/dectobin.pdb
+/home/adampisula/Projects/2016/dectobin/dectobin/bin/Debug/dectobin.exe
+/home/adampisula/Projects/2016/dectobin/dectobin/obj/Debug/dectobin.exe
+/home/adampisula/Projects/2016/dectobin/dectobin/obj/Debug/dectobin.exe.mdb
+/home/adampisula/Projects/2016/dectobin/dectobin/obj/Debug/dectobin.pdb
